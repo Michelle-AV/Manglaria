@@ -21,10 +21,10 @@
 - **Adobe Ilustrator:** used to create all the visual elements found within the application, with the purpose of maintaining a consistent theme throughout (doing all by myself)
 
 ## App previews 📱
-<img style="width:40%; height:40%" alt="Captura de pantalla 2025-08-18 a la(s) 8 39 51 p m" src="https://github.com/user-attachments/assets/536bb17c-ef1e-407a-8cef-db8385f485f5" />
-<img style="width:40%; height:40%" alt="Captura de pantalla 2025-08-18 a la(s) 8 40 02 p m" src="https://github.com/user-attachments/assets/2e40ff2e-015d-43a2-a592-2bc2bada7208" />
-<img style="width:40%; height:40%" alt="Captura de pantalla 2025-08-18 a la(s) 8 40 20 p m" src="https://github.com/user-attachments/assets/1658e680-a847-4a51-8f9f-0bb14651c1d3" />
-<img style="width:40%; height:40%" alt="Captura de pantalla 2025-08-18 a la(s) 8 39 40 p m" src="https://github.com/user-attachments/assets/5e308929-acc5-48d6-9c33-af7876d358e4" />
+<img style="width:50%; height:50%" alt="Captura de pantalla 2025-08-18 a la(s) 8 39 51 p m" src="https://github.com/user-attachments/assets/536bb17c-ef1e-407a-8cef-db8385f485f5" />
+<img style="width:50%; height:50%" alt="Captura de pantalla 2025-08-18 a la(s) 8 40 02 p m" src="https://github.com/user-attachments/assets/2e40ff2e-015d-43a2-a592-2bc2bada7208" />
+<img style="width:50%; height:50%" alt="Captura de pantalla 2025-08-18 a la(s) 8 40 20 p m" src="https://github.com/user-attachments/assets/1658e680-a847-4a51-8f9f-0bb14651c1d3" />
+<img style="width:50%; height:50%" alt="Captura de pantalla 2025-08-18 a la(s) 8 39 40 p m" src="https://github.com/user-attachments/assets/5e308929-acc5-48d6-9c33-af7876d358e4" />
 
 
 
